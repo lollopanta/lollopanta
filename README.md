@@ -1,6 +1,6 @@
 ## Hi I'm lollopanta 👋
 
-Ho **15 anni** e mi piace programmare in Node.JS, HTML e molti altri linguaggi.
+Ho **16 anni** e mi piace programmare in Node.JS, HTML e molti altri linguaggi.
 Inoltre, so creare Bot Discord e moddare iOS.
 
 > 🌍 **Ho anche un sito web!** [Clicca qui per vederlo.](https://lollopanta.it)
