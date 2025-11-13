@@ -5,7 +5,7 @@ Inoltre, so creare Bot Discord.
 
 > 🌍 **Ho anche un sito web!** [Clicca qui per vederlo.](https://lollopanta.it)
 
-- 🔭 Sto lavorando su **CyberHive** Entra ora sul [discord](https://discord.cyberhive.space)
+- 🔭 Sto lavorando a **CyberHive** Entra ora sul [discord](https://discord.cyberhive.space)
 - 🌱 Sto imparando **WebSecurity**
 - 🔫 Puoi trovare i miei links sul mio [**guns.lol**](https://guns.lol/lollopanta).
 
