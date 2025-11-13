@@ -1,12 +1,12 @@
 ## Hi I'm lollopanta 👋
 
 Ho **16 anni** e mi piace programmare in Node.JS, HTML e molti altri linguaggi.
-Inoltre, so creare Bot Discord e moddare iOS.
+Inoltre, so creare Bot Discord.
 
 > 🌍 **Ho anche un sito web!** [Clicca qui per vederlo.](https://lollopanta.it)
 
-- 🔭 Sto lavorando su **CyberHive... coming soon**
-- 🌱 Sto imparando **ejs**
+- 🔭 Sto lavorando su **CyberHive** Entra ora sul [discord](https://discord.cyberhive.space)
+- 🌱 Sto imparando **WebSecurity**
 - 🔫 Puoi trovare i miei links sul mio [**guns.lol**](https://guns.lol/lollopanta).
 
 ## <a href="https://www.buymeacoffee.com/lollopanta"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe&emoji=☕&slug=lollopanta&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a> ![](https://komarev.com/ghpvc/?username=lollopanta&color=green&label=Visualizzazioni+profilo)
