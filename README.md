@@ -22,5 +22,5 @@ Sono particolarmente appassionato di **sviluppo di CMS** utilizzando la **stack 
 
 ### 📫 Come raggiungermi:
 
-* Email: **[[contact@lollopanta.it](mailto:contact@lollopanta.it)]**
+* Email: **[contact@lollopanta.it](mailto:contact@lollopanta.it)**
 * LinkedIn: [**lollopanta**](https://www.linkedin.com/in/lollopanta/)
