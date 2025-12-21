@@ -9,8 +9,6 @@ Inoltre, so creare Bot Discord.
 - 🌱 Sto imparando **WebSecurity**
 - 🔫 Puoi trovare i miei links sul mio [**guns.lol**](https://guns.lol/lollopanta).
 
-## <a href="https://www.buymeacoffee.com/lollopanta"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe&emoji=☕&slug=lollopanta&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a> ![](https://komarev.com/ghpvc/?username=lollopanta&color=green&label=Visualizzazioni+profilo)
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lollopanta&locale=en&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lollopanta&locale=en&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
