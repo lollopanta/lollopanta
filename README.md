@@ -1,28 +1,26 @@
-## Hi I'm lollopanta 👋
+## Ciao, sono lollopanta 👋
 
-Ho **16 anni** e mi piace programmare in Node.JS, HTML e molti altri linguaggi.
-Inoltre, so creare Bot Discord.
+Sono **un giovane sviluppatore di 16 anni** appassionato di programmazione, con esperienza in **Node.js**, **HTML** e tanti altri linguaggi! 🚀
+Sono particolarmente appassionato di **sviluppo di CMS** utilizzando la **stack MERN** (MongoDB, Express.js, React, Node.js), che mi permette di creare applicazioni web scalabili e dinamiche.
 
-> 🌍 **Ho anche un sito web!** [Clicca qui per vederlo.](https://lollopanta.it)
+> 🌍 **Visita il mio sito web!** [Clicca qui per vederlo.](https://lollopanta.it)
 
-- 🔭 Sto lavorando a **CyberHive** Entra ora sul [discord](https://discord.cyberhive.space)
-- 🌱 Sto imparando **WebSecurity**
-- 🔫 Puoi trovare i miei links sul mio [**guns.lol**](https://guns.lol/lollopanta).
+### Attualmente sto lavorando su:
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lollopanta&locale=en&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lollopanta&locale=en&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+* 🔭 **CyberHive** – Unisciti alla community su [Discord](https://discord.cyberhive.space)
+* 🌱 **WebSecurity** – Sempre più appassionato di sicurezza web
+* 🔗 Scopri i miei progetti e link sul mio profilo [**guns.lol**](https://guns.lol/lollopanta).
 
-<!--
-**lollopanta/lollopanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Statistiche GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lollopanta\&locale=en\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lollopanta\&locale=en\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+---
+
+### 📫 Come raggiungermi:
+
+* Email: **[[contact@lollopanta.it](mailto:contact@lollopanta.it)]**
+* LinkedIn: [**lollopanta**](https://www.linkedin.com/in/lollopanta/)
