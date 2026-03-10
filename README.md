@@ -15,12 +15,12 @@ Sono particolarmente appassionato di **sviluppo di CMS** utilizzando la **stack 
 
 ### Statistiche GitHub
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lollopanta\&locale=en\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lollopanta\&locale=en\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://stats.lollopanta.it/api?username=lollopanta\&locale=en\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://lollopanta.it)
+[![Anurag's GitHub stats-Light](https://stats.lollopanta.it/api?username=lollopanta\&locale=en\&show_icons=true\&theme=default#gh-light-mode-only)](https://lollopanta.it)
 
 ---
 ### Conoscenze che sto apprendendo
-[![roadmap.sh](https://roadmap.sh/card/tall/69860e0912539ef4f3bcb0b0?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/69860e0912539ef4f3bcb0b0?variant=dark)](https://lollopanta.it)
 
 ---
 
