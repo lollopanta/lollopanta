@@ -16,7 +16,6 @@ Sono particolarmente appassionato di **sviluppo di CMS** utilizzando la **stack 
 ### Statistiche GitHub
 
 [![Anurag's GitHub stats-Dark](https://stats.lollopanta.it/api?username=lollopanta\&locale=en\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://lollopanta.it)
-[![Anurag's GitHub stats-Light](https://stats.lollopanta.it/api?username=lollopanta\&locale=en\&show_icons=true\&theme=default#gh-light-mode-only)](https://lollopanta.it)
 
 ---
 ### Conoscenze che sto apprendendo
