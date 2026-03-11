@@ -16,7 +16,6 @@ My main focus is building **scalable CMS platforms using the MERN ecosystem**.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
 
 # 🚧 Current Projects
 
