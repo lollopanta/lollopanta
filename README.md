@@ -1,29 +1,65 @@
-## Ciao, sono lollopanta 👋
+# 👋 Hi, I'm Lollopanta
 
-Sono **un giovane sviluppatore di 16 anni** appassionato di programmazione, con esperienza in **Node.js**, **HTML** e tanti altri linguaggi! 🚀
-Sono particolarmente appassionato di **sviluppo di CMS** utilizzando la **stack MERN** (MongoDB, Express.js, React, Node.js), che mi permette di creare applicazioni web scalabili e dinamiche.
+🚀 **16 y/o developer passionate about web development and cybersecurity**
 
-> 🌍 **Visita il mio sito web!** [Clicca qui per vederlo.](https://lollopanta.it)
+I mainly work with **Node.js**, **TypeScript**, and modern web technologies.  
+My main focus is building **scalable CMS platforms using the MERN ecosystem**.
 
-### Attualmente sto lavorando su:
-
-* 🔭 **CyberHive** – Unisciti alla community su [Discord](https://discord.cyberhive.space)
-* 🌱 **WebSecurity** – Sempre più appassionato di sicurezza web
-* 🔗 Scopri i miei progetti e link sul mio profilo [**guns.lol**](https://guns.lol/lollopanta).
+> 🌍 **Visit my website:**  
+[https://lollopanta.it](https://lollopanta.it)
 
 ---
 
-### Statistiche GitHub
+# 🧠 Tech Stack
 
-[![Anurag's GitHub stats-Dark](https://stats.lollopanta.it/api?username=lollopanta\&locale=en\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://lollopanta.it)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
-### Conoscenze che sto apprendendo
+
+# 🚧 Current Projects
+
+### 🔭 CyberHive
+A growing developer community.
+
+Join the Discord:  
+[https://discord.cyberhive.space](https://discord.cyberhive.space)
+
+---
+
+### 🌱 WebSecurity
+Currently exploring **web security**, vulnerabilities and secure web development.
+
+---
+
+### 🔗 My Links
+
+Explore more about me and my projects:
+
+[https://guns.lol/lollopanta](https://guns.lol/lollopanta)
+
+---
+
+# 📊 GitHub Stats
+
+[![GitHub stats](https://stats.lollopanta.it/api?username=lollopanta&locale=en&show_icons=true&theme=dark#gh-dark-mode-only)](https://lollopanta.it)
+
+---
+
+# 📚 Currently Learning
+
 [![roadmap.sh](https://roadmap.sh/card/tall/69860e0912539ef4f3bcb0b0?variant=dark)](https://lollopanta.it)
 
 ---
 
-### 📫 Come contattarmi:
+# 📫 Contact
 
-* Email: **[contact@lollopanta.it](mailto:contact@lollopanta.it)**
-* LinkedIn: [**lollopanta**](https://www.linkedin.com/in/lollopanta/)
+📧 Email  
+[contact@lollopanta.it](mailto:contact@lollopanta.it)
+
+💼 LinkedIn  
+[https://www.linkedin.com/in/lollopanta/](https://www.linkedin.com/in/lollopanta/)
+
+🌍 Website  
+[https://lollopanta.it](https://lollopanta.it)
